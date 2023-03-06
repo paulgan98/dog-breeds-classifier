@@ -13,8 +13,7 @@ torch.manual_seed(42)
 
 
 # Define project/data directory/file paths
-# model_folder = "models-stanford-dataset/model_87.3178"
-model_folder = "models/model_91.3508"
+model_folder = "models/model_91.3751"
 project_dir = os.getcwd()
 data_dir = join(project_dir, "dog-breeds-data", "images", "Images")
 
